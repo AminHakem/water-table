@@ -1,4 +1,10 @@
 {
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
   "name": "water-table",
   "version": "1.0.0",
   "main": "app.js",
