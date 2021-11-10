@@ -1,0 +1,14 @@
+{
+  "name": "water-table",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "author": "Amin Hakem",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^9.4.0",
+    "firebase-admin": "^10.0.0"
+  }
+}
